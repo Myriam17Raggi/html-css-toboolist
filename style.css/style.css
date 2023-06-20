@@ -25,9 +25,14 @@
 }
 
 #font-new-task{
+    font-family: 'Calibri';
     width: 20;
     height: 20;
     display: inline-block;
     text-align: left;
     margin: 50px;
+}
+
+#elenco{
+    
 }
